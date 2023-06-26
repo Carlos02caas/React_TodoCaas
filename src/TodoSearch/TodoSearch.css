@@ -1,0 +1,12 @@
+.TodoSearch{
+    display: block;
+    width: 100%;
+}
+.TodoSearch-input{
+    width: 70%;
+    margin: 40px auto;
+    display: block;
+    font-size: 1.4rem;
+    padding: 4px 10px;
+    border-radius: 10px;
+}

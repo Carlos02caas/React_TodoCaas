@@ -1,0 +1,26 @@
+.CreateTodoButton {
+    position: sticky;
+    bottom: 0;
+    left: 100%;
+    font-size: 4rem;
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    border: 0;
+    color: #fff;
+    background: #8B31CC;
+    z-index: 1;
+}
+.CreateTodoButton:hover {
+    cursor: pointer;
+    animation: rotation 0.5s linear;
+}
+
+@keyframes rotation {
+    from {
+        transform: rotate(0deg);
+    }
+    to {
+        transform: rotate(180deg);
+    }
+}

@@ -1,0 +1,16 @@
+.ModalTodosBackground{
+    background-color: rgba(4, 23, 75, 0.61);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #fff;
+    border-radius: 25px;
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+}
+.ModalTodosBackground img{
+    max-width: 500px;
+}

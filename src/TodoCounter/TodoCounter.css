@@ -1,0 +1,9 @@
+.TodoCounter{
+    font-size: 1.8rem;
+    text-align: center;
+    font-weight: 400;
+    color: #fff;
+}
+.TodoCounter span{
+    font-weight: 700;
+}
