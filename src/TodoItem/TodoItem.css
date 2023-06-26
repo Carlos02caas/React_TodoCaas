@@ -6,6 +6,7 @@
     background: #535353;
     padding: 10px 30px;
     border-radius: 15px;
+    align-items: center;
 }
 .icon{
     font-size: 1.4rem;
@@ -34,6 +35,7 @@
 .TodoItem-p{
     color: #fff;
     font-size: 1.5rem;
+    margin: 0;
 }
 .TodoItem-p--complete{
     text-decoration: line-through;
