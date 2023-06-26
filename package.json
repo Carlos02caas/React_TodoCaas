@@ -41,5 +41,8 @@
       "last 1 safari version"
     ]
   },
-  "homepage": "/home/carlos-ticsup/Documentos/Cursos/React/todo-app/build/"
+  "homepage": "htts://Carlos02caas.github.io/TodoCaas",
+  "devDependencies": {
+    "gh-pages": "^5.0.0"
+  }
 }
