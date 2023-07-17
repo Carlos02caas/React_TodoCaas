@@ -1,3 +1,7 @@
+Project deploy whit React technology, in this app we can add To do's activities, we can mark done, delete, add new, and search task's.
+Stack: React, Css, HTML, 
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
